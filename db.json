@@ -1,13 +1,13 @@
 {
   "desserts": [
-     {
+    {
       "id": 1,
       "name": "Molten Chocolate Cake ",
       "image": "https://preppykitchen.com/wp-content/uploads/2016/03/Chocolate-Lava-Cake-Feature.jpg",
       "favorited": false,
       "ingredients": "1/2 cup butter unsalted, 6 oz bittersweet chocolate, 2 eggs, 2 egg yolks, 1/4 cup sugar, 1 pinch salt, 2 tbs flour",
       "recipe": "Preheat oven to 450F. Butter and flour your ramekins. Melt the butter with the chocolate on low heat in a double boiler or in the microwave.  Whisk until smooth. In a medium bowl, beat the eggs with the egg yolks, sugar and salt until thickened and pale. An electric mixer will work best. Fold the chocolate mixture and flour into the egg mixture. Pour the batter into the ramekins and bake at 450 for 6-8 minutes, it really depends on your oven. Let the cakes cool in the ramekins for a minute, then cover each with an inverted dessert plate. Carefully turn each one over, let stand for 10 seconds and then unmold. Sift powdered sugar on top and garnish with berries if desired. Serve immediately.",
-      "tags": "chocolate, dairy"
+      "tags": "chocolate"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "favorited": false,
       "ingredients": "For The Crust: 2 cups (200 g) graham cracker crumbs, about 2 sleeves, ¼ cup (50g) granulated sugar, 6 tablespoons unsalted butter, melted. For The Filling: 32 ounces (904 g) cream cheese, room temperature, 1 ⅓ cups (266 g) granulated sugar, 1 cup (227 g) sour cream, room temperature, 1 tablespoon vanilla extract, ¼ teaspoon salt, 4 large eggs, room temperature, lightly beaten. For The Sauce: 16 ounces (400 g) whole strawberries, diced. 2 tablespoons cornstarch, 1 cup (200 g) granulated sugar, 2 teaspoons vanilla extract, ⅛ teaspoon salt, 2 cups (334 g) finely chopped strawberries",
       "recipe": "Make The Crust-  Move the oven rack to the lower third position and heat the oven to 350°F. Wrap the outer bottom of a 9-inch springform pan tightly with aluminum foil. Combine the graham cracker crumbs, sugar, and melted butter. Press the crumb mixture into the bottom and about 2-inches up the sides of the pan. Bake for 10 minutes. Set aside to cool while you make the filling. Make The Filling - Reduce the oven temperature to 300ºF. In a large mixing bowl beat the cream cheese with an electric mixer until smooth and creamy, about 1 minute. Add the sugar and sour cream, beat until well combined. Add the vanilla and salt, beat on low speed until smooth. Using a silicone spatula, gently stir in the eggs just until combined. Pour the batter over the prepared crust. Fill a roasting pan with a few inches of boiling water and place the cheesecake in the center. Bake for 1 hour, OR until the edges are set and the center is slightly jiggly. Turn the oven off, leave the cheesecake in the water bath in the oven for another hour. Remove the cheesecake from the water bath and place it on a wire rack. Run a small knife around the outer edge of the cheesecake to loosen it from the pan and leave it to cool at room temperature for about 1 ½ hours. Meanwhile, make the sauce. Alternatively, you can refrigerate the cheesecake for at least 4 hours or overnight after it has cooled and make the sauce about 1 hour before serving. Top the chilled cheesecake with the sauce or top individual slices when ready to serve. Make The Sauce: Add the diced strawberries and cornstarch to the bowl of a food processor and process until smooth. Transfer to a medium saucepan and add the sugar. Cook over medium heat, stirring constantly until thickened, about 15 minutes. Remove from heat and stir in the vanilla, salt, and chopped strawberries. Set aside to cool for about 40 minutes, stirring occasionally. Spread the topping evenly over the cheesecake and refrigerate for at least 4 hours, preferably overnight. Remove the sides of the pan just before serving.",
-      "tags": "dairy, fruit"
+      "tags": "fruit"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "favorited": false,
       "ingredients": "1 stick butter, ½ cup, 1 tablespoon milk, or almond milk, ¾ cup brown sugar, ¼ cup white sugar, 1 egg, 2 teaspoons vanilla, 1 ⅓ cups gluten-free all-purpose flour, ¼ cup almond flour, 1 ounce, 1 teaspoon baking soda, ½ teaspoon salt, 1 cup chocolate chips, Sea salt for sprinkling, optional",
       "recipe": " In a medium bowl, whisk together the gluten-free flour, almond flour, baking soda and salt until evenly combined. Set aside.  Melt butter in a saucepan over medium heat. Once the butter is melted start to whisk constantly. First the butter will begin to foam, then after a couple of minutes it will begin to brown on the bottom of the saucepan. Turn off the heat as soon as the solids turn brown and the butter gives off a nutty aroma. Pour into a glass mixing bowl to prevent burning. Add the milk, brown sugar and white sugar. Whisk to combine. Add the egg and vanilla and whisk until smooth and creamy. Using a rubber spatula, mix in the dry ingredients until well combined. Stir in the chocolate chips. Cover the bowl and let sit for 30 minutes. Preheat the oven to 350F. Scoop the cookie dough (about 2 Tablespoons of dough per cookie) and place a few inches apart on the baking sheets. Bake for 10-12 minutes, until golden and the center is set. Let cool 5 minutes then transfer to a wire rack to continue cooling. Enjoy!",
-      "tags": "chocolate, gluten free"
+      "tags": "chocolate"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "favorited": false,
       "ingredients": "Blueberry base: 4 cups fresh blueberries (or frozen), 2 tbsps maple syrup, 1 tbsp lemon juice, 1 tsp vanilla, 1 tbsp arrowroot powder (or cornstarch). Cobbler: 1 cup rolled oats, 1 cup finely chopped walnuts (or other nut), 1 cup almond flour, 1/4 tsp salt, 1/2 cup maple syrup, 1/3 cup coconut oil, melted, 1 tsp vanilla.",
       "recipe": "Preheat oven to 350F. In a large bowl, mix together blueberries, maple syrup, lemon juice, and vanilla. Then add arrowroot starch and toss blueberries. Spoon berries into an 8×8 inch pan, leaving juice in bowl behind. In another bowl, mix together oats, walnuts, almond flour, and salt. Stir in maple syrup, coconut oil, and vanilla until well combined. Spread cobbler topping on top of blueberries until most of the blueberries are covered. Bake in oven for 40-45 minutes or until topping is golden brown. Let cool for 15 minutes before eating. Store leftovers in refrigerator.",
-      "tags": "fruit, vegan"
+      "tags": "fruit"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "favorited": false,
       "ingredients": "½ cup (120 ml) milk, 1 ½ cups (360 ml) heavy cream, 2 teaspoons vanilla bean paste, or vanilla extract, ½ cup (100 g) granulated sugar, 5 large egg yolks, granulated sugar for garnish, Fresh berries for garnish",
       "recipe": "Preheat the oven to 325°F. Arrange six 4-ounce ramekins in a 2-inch deep baking dish. Set aside. Add milk, cream, and vanilla bean paste to a medium saucepan and heat over medium-high heat until bubbles appear along the sides of the pan. In a medium bowl, quickly whisk the sugar and egg yolks together. Slowly pour the hot cream into the yolk mixture while whisking continuously until well combined. Strain the mixture through a fine-mesh sieve into a pitcher or large liquid measuring cup. Pour the custard into the ramekins. Place the baking pan with filled ramekins inside the oven. Then, carefully fill the pan with enough hot water to come ⅔ of the way up the sides of the ramekins. Bake 25-30 minutes, just until set. Start checking the custard early. Bake time will vary depending on the thickness and depth of your ramekins. The custard should be set and not soupy with only a small area of jiggle in the center. Carefully remove the baking dish from the oven and allow the ramekins to cool in the water bath. Once the ramekins are cool enough to handle, remove them from the water, cover with plastic wrap, and refrigerate for at least 4 hours or up to 2 days before serving. Just before serving, sprinkle the tops of the custard with an even layer of granulated sugar, then immediately caramelize the sugar with a propane torch or broiler.",
-      "tags": "Dairy"
+      "tags": "dairy"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "favorited": false,
       "ingredients": "2 cups whole milk, 2 teaspoons vanilla extract, 2/3 cup sugar, 1/4 teaspoon salt, 1/4 cup cornstarch, 4 large egg yolks, room temperature, 1 tablespoon unsalted butter",
       "recipe": "Heat milk and vanilla extract in a heavy bottom, medium saucepan until at a low simmer. Do not let it boil, heat until little bubbles form around the edges. Place sugar, cornstarch and salt into a large bowl and whisk dry ingredients until mixed. Add egg yolks and blend until a pale yellow. Slowly pour milk mixture into eggs while whisking at a low speed to temper. Do not mix too fast or it will froth and foam. Blend until mixed. Transfer back to the saucepan and cook over medium-low heat for 3-5 minutes or until thickened. Whisk continually to prevent mixture from scalding to the pan. As soon as mixture thickens, remove from heat and whisk in butter. Transfer to a clean bowl and cover with plastic wrap. Press plastic wrap into the custard mixture so there is no air between the two. This prevents the filmy skin that can develop. To set faster, place in small ramekins or bowls. Refrigerate for a minimum of 3 hours, but up to 2 days. Serve chilled and enjoy!",
-      "tags": "Dairy, Vanilla, Long Cook Time"
+      "tags": "dairy"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "favorited": false,
       "ingredients": "3 eggs, ½ cup flour, ½ cup milk, 1 tablespoon sugar, Pinch of nutmeg, 4 tablespoons unsalted butter",
       "recipe": "Preheat oven to 425 degrees. Combine eggs, flour, milk, sugar and nutmeg in a blender jar and blend until smooth. Batter may also be mixed by hand. Place butter in a heavy 10-inch skillet or baking dish and place in the oven. As soon as the butter has melted add the batter to the pan, return pan to the oven and bake for 20 minutes, until the pancake is puffed and golden. Lower oven temperature to 300 degrees and bake five minutes longer. Remove pancake from oven, cut into wedges and serve at once topped with syrup, preserves, confectioners' sugar or cinnamon sugar.",
-      "tags": "Dairy, Short Cook Time"
+      "tags": "pastry"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "favorited": false,
       "ingredients": "6 Tablespoons salted butter, 16 oz bag mini marshmallows, divided, 1 teaspoon pure vanilla extract, 6 cups rice krispies cereal.",
       "recipe": "Line a 9-inch square baking dish with parchment paper. Set aside. In a large saucepan, melt butter over medium heat. Once melted, add in all but 1 cup of the marshmallows. Reduce heat to low and continue stirring until completely melted. Remove from heat and stir in the vanilla. Add the cereal and the remaining 1 cup of marshmallows. Pour into the prepared baking dish. Press GENTLY with your fingertips just until completely spread out  Allow to set for an hour. Cut and enjoy!",
-      "tags": "Dairy, Short Cook Time"
+      "tags": "pastry"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "favorited": false,
       "ingredients": "4 large baking apples, 1/4 cup brown sugar, 1 teaspoon cinnamon, 1/4 cup chopped pecans, optional, 1/4 cup currants or chopped raisins, optional, 1 tablespoon butter, 3/4 cup boiling water",
       "recipe": "Preheat your oven. Cut out holes in apples for stuffing. Mix sugar, cinnamon, and raisins/pecans, then stuff each apple with mixture. Add slice of butter on top of the sugar mixture. Lightly wrap apples in foil and place into a baking dish. Pour boiling water gently into the bottom of the baking dish. Bake for 30 - 45 minutes, apples should be cooked through and tender, but not mushy. Serve warm with a scoop of vanilla ice cream.",
-      "tags": "Fruit, Dairy, Short Cook Time"
+      "tags": "fruit"
     },
     {
       "id": 8,
@@ -88,7 +88,14 @@
       "favorited": false,
       "ingredients": "2 3/4 cups all-purpose flour, 1 tsp baking soda, 1/2 tsp baking powder, 1/2 tsp salt, 1 cup unsalted butter, room temperature, 1 cup + 2 tbsp granulated sugar, 2 tbsp light brown sugar, 1 large egg, 2 tsp vanilla extract, 1/4 cup sugar (additional for rolling).",
       "recipe": "Preheat oven to 350°F. Line baking sheets with parchment paper or silicone baking mats. Set aside. Combine the flour, baking soda, baking powder and salt in a medium sized bowl and set aside. Cream the butter and sugars together in a large mixer bowl on medium speed until light in color and fluffy. You should be able to see the change in color happen and know it’s ready. Add the egg and mix until well combined. Add the vanilla extract and mix until well combined. Add the dry ingredients and mix until the dough is well combined. It will be thick and shouldn’t be sticky. Do not over mix. Once it’s well combined, use a rubber spatula to help it come together to form a more cohesive ball. Create 1 1/2 tablespoon sized balls of cookie dough. Gently roll into a ball, then roll each ball in the additional sugar to coat. Set the balls on the baking sheet. Bake cookies for 7-8 minutes. Remove just before the edges begin to turn golden. Don’t over bake. The cookies will be a little puffy when you take them out of the oven but will fall a bit as they cool. Remove from the oven and allow to cool on baking sheets for 4-5 minutes before transferring to a wire rack to cool completely.",
-      "tags": "Pastry"
+      "tags": "pastry"
+    },
+    {
+      "name": "Donut",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8m9FpPzkS8FDnt3ql1UgolAhAJhEIlhZo9w&usqp=CAU",
+      "ingredients": "Sweet",
+      "recipe": "Love",
+      "id": 10
     }
   ]
 }
